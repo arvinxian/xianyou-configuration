@@ -1,0 +1,4 @@
+
+# exclude everything except directory or file started without '!'
+!.vimrc
+!.gitignore
