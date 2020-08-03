@@ -54,3 +54,10 @@ set bg=dark
 
 colorscheme gruvbox
 
+" hight the line where cursor in
+set cursorcolumn
+set cursorline
+
+highlight CursorLine cterm=NONE ctermbg=black ctermfg=green guibg=NONE guifg=NONE
+highlight CursorColumn cterm=NONE ctermbg=black ctermfg=green guibg=NONE guifg=NONE
+
