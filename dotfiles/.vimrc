@@ -58,6 +58,6 @@ colorscheme gruvbox
 set cursorcolumn
 set cursorline
 
-highlight CursorLine cterm=NONE ctermbg=black ctermfg=green guibg=NONE guifg=NONE
-highlight CursorColumn cterm=NONE ctermbg=black ctermfg=green guibg=NONE guifg=NONE
+highlight CursorLine cterm=NONE ctermbg=black guibg=NONE guifg=NONE
+highlight CursorColumn cterm=NONE ctermbg=black guibg=NONE guifg=NONE
 
